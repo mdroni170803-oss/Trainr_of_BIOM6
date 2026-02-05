@@ -1,0 +1,5 @@
+{
+  "name": "BIOM Admin Hub",
+  "description": "Information management system for BIOM online madrasa trainers, featuring admin tracking, course details, and data backup/restore capabilities.",
+  "requestFramePermissions": []
+}
